@@ -61,4 +61,4 @@ This course is for undergraduate and graduate students, aimed at learning the pr
 
 ### 元宇宙虛擬網紅微學程
 
-![Imagine Poster](https://github.com/hsuehyt/NTNT11301/blob/main/ReadmeImages/Imagine_Poster_2.jpg)
+![Imagine Poster](https://github.com/hsuehyt/NTNU11301/blob/main/ReadmeImages/Imagine_Poster_2.jpg)
